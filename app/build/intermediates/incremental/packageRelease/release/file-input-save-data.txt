@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Dec 27 17:09:11 EET 2020
+0.baseType=DIRECTORY
+0.base=D\:\\Kotlin Projects\\SauWeather\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
